@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/abhinav-codealchemist/ParseHub.svg)](http://hits.dwyl.io/abhinav-codealchemist/ParseHub)
 # ParseHub
 Website Scraper
 
